@@ -1,0 +1,10 @@
+C:\Users\willy\AppData\Local\Temporary Projects\Editor\bin\Debug\Editor.exe.config
+C:\Users\willy\AppData\Local\Temporary Projects\Editor\bin\Debug\Editor.exe
+C:\Users\willy\AppData\Local\Temporary Projects\Editor\bin\Debug\Editor.pdb
+C:\Users\willy\AppData\Local\Temporary Projects\Editor\bin\Debug\Editor.xml
+C:\Users\willy\AppData\Local\Temporary Projects\Editor\obj\Debug\Editor.Form1.resources
+C:\Users\willy\AppData\Local\Temporary Projects\Editor\obj\Debug\Editor.Resources.resources
+C:\Users\willy\AppData\Local\Temporary Projects\Editor\obj\Debug\Editor.vbproj.GenerateResource.Cache
+C:\Users\willy\AppData\Local\Temporary Projects\Editor\obj\Debug\Editor.exe
+C:\Users\willy\AppData\Local\Temporary Projects\Editor\obj\Debug\Editor.xml
+C:\Users\willy\AppData\Local\Temporary Projects\Editor\obj\Debug\Editor.pdb

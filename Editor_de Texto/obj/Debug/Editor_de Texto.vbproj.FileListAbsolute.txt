@@ -1,0 +1,10 @@
+C:\Users\willy\Documents\Visual Studio 2012\Projects\Editor_de Texto\Editor_de Texto\bin\Debug\Editor_de Texto.exe.config
+C:\Users\willy\Documents\Visual Studio 2012\Projects\Editor_de Texto\Editor_de Texto\bin\Debug\Editor_de Texto.exe
+C:\Users\willy\Documents\Visual Studio 2012\Projects\Editor_de Texto\Editor_de Texto\bin\Debug\Editor_de Texto.pdb
+C:\Users\willy\Documents\Visual Studio 2012\Projects\Editor_de Texto\Editor_de Texto\bin\Debug\Editor_de Texto.xml
+C:\Users\willy\Documents\Visual Studio 2012\Projects\Editor_de Texto\Editor_de Texto\obj\Debug\Editor.Form1.resources
+C:\Users\willy\Documents\Visual Studio 2012\Projects\Editor_de Texto\Editor_de Texto\obj\Debug\Editor.Resources.resources
+C:\Users\willy\Documents\Visual Studio 2012\Projects\Editor_de Texto\Editor_de Texto\obj\Debug\Editor_de Texto.vbproj.GenerateResource.Cache
+C:\Users\willy\Documents\Visual Studio 2012\Projects\Editor_de Texto\Editor_de Texto\obj\Debug\Editor_de Texto.exe
+C:\Users\willy\Documents\Visual Studio 2012\Projects\Editor_de Texto\Editor_de Texto\obj\Debug\Editor_de Texto.xml
+C:\Users\willy\Documents\Visual Studio 2012\Projects\Editor_de Texto\Editor_de Texto\obj\Debug\Editor_de Texto.pdb
